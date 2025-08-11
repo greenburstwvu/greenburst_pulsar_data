@@ -1,5 +1,3 @@
-<table style="margin: auto; border-collapse: collapse; text-align: center;">
-    <link href="styles.css" rel="stylesheet" media="all" />
 
     <thead>
         <tr>
