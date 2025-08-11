@@ -2,21 +2,13 @@
     <thead>
         <tr>
             <th>$PSR$</th>
-            <th>$P$</th>
+            <th>$P$ $(ms)$</th>
             <th>$DM$ $(pc/cm^3)$</th>
             <th>$S_{1400}$</th>
             <th>$N_{\\ epochs}$</th>
             <th>$N_{\\ pulses}$</th>
         </tr>
     </thead>
-        <tr>
-        <td> </td>
-        <td> (ms) </td>
-        <td align="right">$(pc/cm^3)$</td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-    </tr>
     <tr>
         <td>B0144+59</td>
         <td>196.32</td>
