@@ -1,4 +1,4 @@
-
+<table style="margin: auto; border-collapse: collapse; text-align: center;">
     <thead>
         <tr>
             <th>$PSR$</th>
