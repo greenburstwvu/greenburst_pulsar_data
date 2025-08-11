@@ -3,7 +3,7 @@
         <tr>
             <th>$PSR$</th>
             <th>$P$</th>
-            <th>$DM$</th>
+            <th>$DM$ $(pc/cm^3)$</th>
             <th>$S_{1400}$</th>
             <th>$N_{\\ epochs}$</th>
             <th>$N_{\\ pulses}$</th>
